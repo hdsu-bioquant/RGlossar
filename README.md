@@ -4,6 +4,10 @@ This GitHub repository will be used to create explanation pages for common funct
 Students should contribute to expand this glossary by adding a small explanation on a particular function that
 they would like to present.
 
+## Concept
+
+Whenever you use/discover a new, cool function in R, please write a short description of that function as a wiki page (see below for details). As more and more students contribute, we will create a comprehensive collection of R functions.
+
 ## Rules
 
 * there should be one glossary page for each function (exception: the intro page 00, which contains several functions)
