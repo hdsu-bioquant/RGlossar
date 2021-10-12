@@ -12,5 +12,16 @@ they would like to present.
 
 ## Detailed explanation
 
+1. click on the wiki tab in the menu bar; then click on the green "New page" button on the right
+
 ![grafik](https://user-images.githubusercontent.com/8788995/136921827-be8bcefd-22bd-4681-8d06-94861b64d330.png)
 
+2. You should now fill some fields:
+    * In the name bar, give the name of the R function you want to describe
+    * In the main text field, describe the function, and include R code inside the ```{r} ... ``` delimiters
+
+The text syntax is called **Markdown**, and is very intuitive. Check [this cheatsheet for example](https://www.markdownguide.org/cheat-sheet/)
+
+![grafik](https://user-images.githubusercontent.com/8788995/136922374-e425dd94-af11-4a0c-b2f7-99454a3fd6aa.png)
+
+3. Click "Save page" on the bottom right
